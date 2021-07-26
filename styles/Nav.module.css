@@ -1,9 +1,19 @@
 .nav {
 	position: absolute;
+	display: grid;
 	width: 13.69vw;
 	height: 100vw;
 	left: 0;
 	top: 0;
 	background-color: var(--primary);
 	color: var(--secondary);
+}
+
+.nav ul {
+	grid: center;
+	font-family: "Indie Flower", cursive;
+}
+
+.nav ul li {
+	list-style: none;
 }
