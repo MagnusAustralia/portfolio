@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "william",
 	"version": "0.1.0",
 	"private": true,
@@ -17,7 +16,6 @@
 	"devDependencies": {
 		"prettier": "^2.3.2"
 	}
-=======
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -36,5 +34,4 @@
     "eslint": "7.31.0",
     "eslint-config-next": "11.0.1"
   }
->>>>>>> 7adc71e831af742df9f4555e1d1f39c271b90be2
 }
