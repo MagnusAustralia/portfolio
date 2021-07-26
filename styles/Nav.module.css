@@ -1,0 +1,9 @@
+.nav {
+	position: absolute;
+	width: 13.69vw;
+	height: 100vw;
+	left: 0;
+	top: 0;
+	background-color: var(--primary);
+	color: var(--secondary);
+}
