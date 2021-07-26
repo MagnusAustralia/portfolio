@@ -16,4 +16,9 @@
 
 .nav ul li {
 	list-style: none;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	line-height: 120px;
+	text-align: center;
 }
