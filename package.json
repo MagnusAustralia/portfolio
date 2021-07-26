@@ -15,7 +15,7 @@
 	},
 	"devDependencies": {
 		"prettier": "^2.3.2"
-	}
+	},
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
