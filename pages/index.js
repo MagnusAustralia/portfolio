@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
@@ -62,5 +63,12 @@ export default function Home() {
 				</a>
 			</footer>
 		</div>
+=======
+export default function Home() {
+	return (
+		<section>
+			<h1>Hello World</h1>
+		</section>
+>>>>>>> 7adc71e831af742df9f4555e1d1f39c271b90be2
 	);
 }

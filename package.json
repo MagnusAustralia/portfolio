@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "william",
 	"version": "0.1.0",
 	"private": true,
@@ -16,4 +17,24 @@
 	"devDependencies": {
 		"prettier": "^2.3.2"
 	}
+=======
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.31.0",
+    "eslint-config-next": "11.0.1"
+  }
+>>>>>>> 7adc71e831af742df9f4555e1d1f39c271b90be2
 }
