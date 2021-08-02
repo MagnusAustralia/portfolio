@@ -11,7 +11,7 @@ const Links = () => {
 				</a>
 				<br />
 				<br />
-				<a href="http://slightlyuseful.william-portfolio.design">
+				<a href="http://slightly-useful.william-portfolio.design">
 					Check out my site for some slightly useful things
 				</a>
 				<br />
