@@ -27,7 +27,7 @@ const Links = () => {
 				<br />
 				<br />
 				<a href="http://cadets.william-portfolio.design">
-					Check out my site for cadets (@229 Squadron)
+					Check out my site for cadets
 				</a>
 			</p>
 		</div>
