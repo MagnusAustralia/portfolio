@@ -19,6 +19,16 @@ const Links = () => {
 				<a href="http://study-review.william-portfolio.design">
 					Check out my site for some yearly subject reviews
 				</a>
+				<br />
+				<br />
+				<a href="http://homework.william-portfolio.design">
+					Check out my site for recording homework
+				</a>
+				<br />
+				<br />
+				<a href="http://caders.william-portfolio.design">
+					Check out my site for cadets
+				</a>
 			</p>
 		</div>
 	);
